@@ -1,0 +1,4 @@
+Teira Agustin
+
+a- Si, siempre y cuando mantenga actualizado mi respositorio local, Alfa va a ver los archivos agregados
+b- Si, siempre y cuando los archivos que agregue se suban correctamente al repositorio, y que ellos hagan un pull para actualizar los cambios, van a ver los archivos que agregue
