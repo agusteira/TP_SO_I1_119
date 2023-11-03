@@ -1,7 +1,8 @@
 Teira Agustin
 Mateo Malatto
 
-a- Si, siempre y cuando mantenga actualizado mi respositorio local, Alfa va a ver los archivos agregados
-b- Si, siempre y cuando los archivos que agregue se suban correctamente al repositorio, y que ellos hagan un pull para actualizar los cambios, van a ver los archivos que agregue
-c- Si, cuando agrego un archivo o hago una modificacion, ambos Alfa y Gamma pueden verla
-d- Nos comunicamos usando Whatsapp y a través del GitHub mediante el Projects
+a- Si, siempre y cuando mantenga actualizado mi respositorio local, Alfa va a ver los archivos agregados.
+b- Si, siempre y cuando los archivos que agregue se suban correctamente al repositorio, y que ellos hagan un pull para actualizar los cambios, van a ver los archivos que agregue.
+c- Si, cuando agrego un archivo o hago una modificacion, ambos Alfa y Gamma pueden verla.
+d- Nos comunicamos usando Whatsapp y a través del GitHub mediante el Projects.
+e- La mejor forma de comunicarse mediante GitHub es a través del apartado de Projects, donde podemos asignar tareas, visualizar su estado y organizarlas para trabajar de forma eficiente.
